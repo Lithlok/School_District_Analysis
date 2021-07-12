@@ -1,10 +1,3 @@
-# School_District_Analysis
-Python, Jupyter Notebook, 
-
-Analysis
-------------------------------------------------------
-
-
 # Deliverable 3 Instructions
 # For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 
